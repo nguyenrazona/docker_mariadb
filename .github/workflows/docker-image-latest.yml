@@ -1,4 +1,4 @@
-name: Build Mariadb:latest (10)
+name: Build Mariadb:latest
 
 on:
   push:
