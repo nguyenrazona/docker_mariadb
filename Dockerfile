@@ -1,4 +1,4 @@
-FROM mariadb:latest
+FROM mariadb:11.0-rc
 
 ENV MARIADB_ROOT_PASSWORD=root
 ENV MARIADB_DATABASE=sample
